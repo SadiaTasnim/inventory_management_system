@@ -1,0 +1,104 @@
+
+#main-wrapper{
+    
+    width: 700px;
+    height: auto;
+    margin: auto;
+    margin-top: 10%;
+    background:white;
+    padding:25px; 
+   
+
+}
+
+.loginimage{
+    width: 100px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.myform{
+    width:450 px;
+    margin: 0 auto;
+}
+.inputvalues{
+    width: 96%;
+    margin: 0 auto;
+    padding: 5px;
+    height: 30px;
+    background-color:#a8e7ff;
+    border-radius: 10px;
+}
+
+.inputvalues1{
+    width: 96%;
+    margin: 0 auto;
+    padding: 5px;
+    height: 30px;
+    background-color:#fcecc8;
+    border-radius: 10px;
+}
+
+#login_btn{
+    margin-top: 10px;
+    background-color:#8bd2e2;
+    padding: 5px;
+    color: black;
+    width: 99%;
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid #222222;
+    border-radius: 10px;
+    
+}
+#register_btn{
+    margin-top: 10px;
+    background-color: #8bd2e2;
+    padding: 5px;
+    color:black;
+    width: 99%;
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid #222222;
+    border-radius: 10px;
+}
+#signup_btn{
+    margin-top: 10px;
+    background-color: #f4cb70;
+    padding: 5px;
+    color: black;
+    width: 99%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+ 
+    
+}
+#back_btn{
+    margin-top: 10px;
+    background-color: #f4cb70;
+    padding: 5px;
+    color:black;
+    width: 30%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px; 
+    
+}
+
+.text{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+.button
+{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FFF 0px 0px 20px,
+     #FFF 0px 0px 30px, #FFF 0px 0px 40px, #FFF 0px 0px 50px, #FFF 0px 0px 75px;
+}
